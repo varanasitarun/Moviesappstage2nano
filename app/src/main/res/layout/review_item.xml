@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:layout_width="match_parent"
+        android:id="@+id/id_author"
+        android:textStyle="bold"
+        android:textSize="@dimen/main_text_size"
+        android:background="@color/backgroundauthor"
+        android:layout_alignParentStart="true"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/id_comment"
+        android:textSize="@dimen/sub_text_size"
+        android:background="@color/colorAccent"
+        android:layout_below="@id/id_author"/>
+
+</RelativeLayout>

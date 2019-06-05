@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MoviesAppStage2</string>
+    <string name="main_image_content">Sample Image in a grid View</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="poplar">Poplar</string>
+    <string name="sort_by">Sort by</string>
+    <string name="favorites">Favorites</string>
+    <string name="rating_label">Rating</string>
+    <string name="release_date">Release Date</string>
+    <string name="vote_count">Vote Count</string>
+    <string name="favorites_display">favorites display</string>
+    <string name="over_view">Over View</string>
+    <string name="youtube_sample_icon">youtube sample icon</string>
+    <string name="trailers_label">Trailers</string>
+    <string name="reviews">Reviews</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="top_rated_moviw">Top Rated Movies</string>
+    <string name="favorite_movies">Favorite Movies</string>
+</resources>
